@@ -1,0 +1,1 @@
+C:\Users\James\Documents\Programming\C#\Music Player\Music Player\Music Player\bin\Debug\Music Player.exe.config
